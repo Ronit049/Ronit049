@@ -2,6 +2,8 @@
 <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalistic-tech-computer-banner-poster-background-image_178088.jpg" width="960" height="350" />
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" width="540" height="240" />
+<img align=left width=500 src="file_name.gif" /> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="240" height="240" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit049&label=Profile%20views&color=0e75b6&style=flat" alt="ronit049" /> </p>
 
