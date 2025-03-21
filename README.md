@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronit Raj</h1>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkczE5cmFjMTJsczVsd3RhdGJ6eWNmNmZlbGZmcW1kMWIyZG43eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40" height="40" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkczE5cmFjMTJsczVsd3RhdGJ6eWNmNmZlbGZmcW1kMWIyZG43eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="240" height="240" />
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit049&label=Profile%20views&color=0e75b6&style=flat" alt="ronit049" /> </p>
