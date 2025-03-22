@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **"I can spend hours debugging, only to realize I forgot a semicolon!" 😅**
 
-  <img align=left width=500 src="file_name.gif" /> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="240" height="240" />
+  <img align=left width=500 src="file_name.gif" /> <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="2400" height="240" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
