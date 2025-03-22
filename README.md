@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png" width="4200" height="200" />
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" width="540" height="240" />
-<img align=left width=500 src="file_name.gif" /> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="240" height="240" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit049&label=Profile%20views&color=0e75b6&style=flat" alt="ronit049" /> </p>
@@ -22,6 +22,8 @@
 - 📫 How to reach me **ronitrajrsr0409@gmail.com**
 
 - ⚡ Fun fact **"I can spend hours debugging, only to realize I forgot a semicolon!" 😅**
+
+  <img align=left width=500 src="file_name.gif" /> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="240" height="240" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
