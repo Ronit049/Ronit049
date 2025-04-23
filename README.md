@@ -3,6 +3,8 @@
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" width="540" height="240" />
 
+<img src="https://avatars.githubusercontent.com/u/184878603?v=4" alt="myself">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit049&label=Profile%20views&color=0e75b6&style=flat" alt="ronit049" /> </p>
