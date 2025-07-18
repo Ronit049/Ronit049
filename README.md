@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_rsr04" target="blank"><img src="https://img.shields.io/twitter/follow/its_rsr04?logo=twitter&style=for-the-badge" alt="its_rsr04" /></a> </p>
 
-- 🔭 I’m currently working on [Calculator By C++](https://github.com/Ronit049/Calculator-By-C-)
+- 🔭 I’m currently working on [C++](https://github.com/Ronit049/Calculator-By-C-)
 
 - 🌱 I’m currently learning **Python, Java Script etc.**
 
