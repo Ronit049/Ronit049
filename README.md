@@ -36,7 +36,7 @@
 - 📫 How to reach me **ronitrajrsr0409@gmail.com**
 - ## 📄 My Resume
 
-👉 [Click here to download my resume](file:///C:/Users/iamro/Downloads/Resumefinal-copy.pdf)
+👉 [Click here to download my resume](https://github.com/Ronit049/My-Resume/blob/main/README.md)
 
 - ⚡ Fun fact **I think I am funny**
 
