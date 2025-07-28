@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+to+My+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+<img src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png" width="4200" height="200" />
 <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2OTY0ODAsIm5iZiI6MTc1MzY5NjE4MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI4VDA5NDk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2OGIxZTVkOGVkZjgxZjM4MDBiMWM4NWY1MmJmZmIzOGQxMDdlNGJiNGJhZjY5ODYzMzM2MGJmNDJhYTczNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.M-17WVy15_IFxFys1Xj9aoNgPE4434xhD920RPABGKg" alt="GitHub Animation" />
 
-<img src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png" width="4200" height="200" />
+
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" width="540" height="240" />
 
