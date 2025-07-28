@@ -34,8 +34,9 @@
 - 💬 Ask me about **Web Design**
 
 - 📫 How to reach me **ronitrajrsr0409@gmail.com**
+- ## 📄 My Resume
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/437ee8b9720d7989/EYYfuvOESsxFlsPTtN6udxQBuNjACPqaNkp3am5No8QcOg?e=0W4yye](https://1drv.ms/w/c/437ee8b9720d7989/EYYfuvOESsxFlsPTtN6udxQBuNjACPqaNkp3am5No8QcOg?e=0W4yye)
+👉 [Click here to download my resume](https://github.com/Ronit049/YourRepoName/raw/main/Resumefinal-copy.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
