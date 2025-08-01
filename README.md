@@ -1,7 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ronit Raj</h1>
+<h1 align="center">Ronit Raj</h1>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+to+My+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Web+Developer+and+more" alt="Typing SVG" /></a>
+<img align="middle" alt="GIF" src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F4085147%2Fcover_image%2Fregular_1708x683%2F0823_Web_Animation_Lina_Newsletter-30a68db5db738aff7db3842a5cff3d2c.png" />
 </p>
+
+<p>
+  
+#### I am Ronit Raj, a second-year B.Tech CSE student at Arya College of Engineering, with a passion for Web development and Software Engineering. I have strong technical skills in Programming Languages such as c, c++, JS, web development. I aim to contribute to impactful projects and create solutions that make a difference.
+
+
+</p>
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png" width="4200" height="200" />
 
 
