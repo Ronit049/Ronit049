@@ -84,7 +84,6 @@
 
 
 
-<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/932a17a2-7b28-4532-b8b8-7af4d4b31438" />
 
 
 
@@ -104,24 +103,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-[![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-
-
-
-
-![](https://raw.githubusercontent.com/Ronit049/github-card-template/master/profile-summary-card-output/darcula/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/Ronit049/github-profile-summary-cards/master/profile-summary-card-output/maroongold/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ronit049/github-profile-summary-cards/master/profile-summary-card-output/maroongold/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ronit049/github-profile-summary-cards/master/profile-summary-card-output/maroongold/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ronit049/github-profile-summary-cards/master/profile-summary-card-output/maroongold/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ronit049/github-profile-summary-cards/master/profile-summary-card-output/maroongold/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
