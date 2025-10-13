@@ -27,9 +27,10 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32954-blue)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit049&label=Profile%20views&color=0e75b6&style=flat" alt="ronit049" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronit049" alt="ronit049" /></a> </p>
 
