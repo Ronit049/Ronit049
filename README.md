@@ -31,8 +31,10 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32954-blue)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronit049" alt="ronit049" /></a> </p>
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/its_rsr04" target="blank"><img src="https://img.shields.io/twitter/follow/its_rsr04?logo=twitter&style=for-the-badge" alt="its_rsr04" /></a> </p>
 
 - 🔭 I’m currently working on [PROJECT](https://github.com/Ronit049/BLINKIT-store-placement-prediction-project-)
