@@ -37,7 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/its_rsr04" target="blank"><img src="https://img.shields.io/twitter/follow/its_rsr04?logo=twitter&style=for-the-badge" alt="its_rsr04" /></a> </p>
 
-- 🔭 I’m currently working on [PROJECT](https://github.com/Ronit049/BLINKIT-store-placement-prediction-project-)
+- 🔭 I’m currently working on [PROJECT](https://github.com/Ronit049?tab=projects)
 
 - 🌱 I’m currently learning **Python, Java Script etc.**
 
