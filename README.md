@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Python, Java Script etc.**
 
-- 👯 I’m looking to collaborate on [LINK](https://github.com/users/Ronit049/projects/5)
+- 👯 I’m looking to collaborate on-->> [LINK](https://github.com/users/Ronit049/projects/5)
 
 - 🤝 I’m looking for help with [tic tie toe By C Programming](https://github.com/Ronit049/tic-tie-toe-game)
 
