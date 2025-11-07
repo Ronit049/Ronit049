@@ -3,6 +3,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Web+Developer+and+more" alt="Typing SVG" /></a>
+  <div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
 <img align="middle" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 </p>
 
@@ -82,6 +83,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronit049&show_icons=true&locale=en" alt="ronit049" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit049&" alt="ronit049" /></p>
+
+
+
+</br></br>
+<a href="https://github.com/Ronit049">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+
+<h3 align="center">
+ <a href="https://github.com/Ronit049">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/Ronit049">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
 
 
 
