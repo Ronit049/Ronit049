@@ -90,6 +90,23 @@
 
 
 
+ 【﻿G R A P H】 
+</h3>
+
+<a href="https://github.com/Ronit049">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<br><br>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ronit049&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Ronit049) </br>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   
+  </a>
+</p>
+<br><br>
+
 
 
 
