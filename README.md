@@ -81,6 +81,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit049&" alt="ronit049" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit049&theme=tokyonight)
 
 
 </br></br>
