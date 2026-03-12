@@ -31,24 +31,6 @@
 
 <p align="left"> <a href="https://twitter.com/its_rsr04" target="blank"><img src="https://img.shields.io/twitter/follow/its_rsr04?logo=twitter&style=for-the-badge" alt="its_rsr04" /></a> </p>
 
-- 🔭 I’m currently working on [PROJECT](https://github.com/Ronit049?tab=projects)
-
-- 🌱 I’m currently learning **Python, Java Script etc.**
-
-- 👯 I’m looking to collaborate on-->> [LINK](https://github.com/users/Ronit049/projects/5)
-
-- 🤝 I’m looking for help with [PROJECT](https://github.com/users/Ronit049/projects/6)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ronit049?tab=repositories](https://github.com/Ronit049?tab=repositories)
-
-- 📝 I regularly write articles on [https://bento.me/ronit-raj](https://bento.me/ronit-raj)
-
-- 💬 Ask me about **Web Design**
-
-- 📫 How to reach me **ronitrajrsr0409@gmail.com**
-- ## 📄 My Resume
-
-👉 [Click here to download my resume](https://drive.google.com/file/d/15Rga7KwRwFO_zwXUJfiBSAz4vznNHJ5F/view?usp=drivesdk)
 
 
 
