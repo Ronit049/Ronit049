@@ -14,10 +14,6 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png" width="4200" height="200" />
-
-
-
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" width="540" height="240" />
 
