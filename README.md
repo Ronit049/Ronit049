@@ -26,6 +26,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/its_rsr04" target="blank"><img src="https://img.shields.io/twitter/follow/its_rsr04?logo=twitter&style=for-the-badge" alt="its_rsr04" /></a> </p>
+  <a href="https://gitcgr.com/Ronit049/Ronit049" target="_blank" rel="noopener noreferrer">
+    <img src="https://gitcgr.com/badge/Ronit049/Ronit049.svg" alt="gitcgr" />
+  </a>
 
 
 
