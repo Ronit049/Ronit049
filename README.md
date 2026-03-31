@@ -64,6 +64,11 @@
   <a href="https://github.com/Ronit049">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronit049&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Ronit049's GitHub Stats" />
   </a>
+  
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Ronit049" alt="GitHub Insights" />
+</div>
+
   <img src="https://streak-stats.demolab.com/?user=Ronit049&theme=dark&hide_border=true&cache_seconds=86400" alt="Ronit049's GitHub Streak" width="49%" />
 </p>
 <p align="center">
