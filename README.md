@@ -88,7 +88,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronit049&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+## 🏅 HackerRank Badge
 
+<p align="center">
+  <img src="Hackerrank_Badge.png" alt="HackerRank Badge" width="200">
+</p>
 ## 🔗 Connect with Me
 <p align="center"><a href="www.linkedin.com/in/ronit-raj7497" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/its_rsr04" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917368868707" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@its_rsr049" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ronitrajrsr0409@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://linktr.ee/ronit0491" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
