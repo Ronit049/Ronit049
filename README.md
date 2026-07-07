@@ -9,9 +9,17 @@
 </p>
 
 <p>
-  
-#### I am Ronit Raj, a second-year B.Tech CSE student at Arya College of Engineering, with a passion for Web development and Software Engineering. I have strong technical skills in Programming Languages such as c, c++, JS, web development. I aim to contribute to impactful projects and create solutions that make a difference.
+
+#### Hi, I'm <strong>Ronit Raj</strong>, a <strong>third-year B.Tech Computer Science & Engineering student</strong> at <strong>Arya College of Engineering, Jaipur</strong>. I am passionate about building intelligent software solutions by combining <strong>Artificial Intelligence</strong>, <strong>Agentic AI</strong>, <strong>Generative AI</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Software Engineering</strong>.
+
+#### I have hands-on experience through internships in <strong>Agentic AI</strong>, <strong>Generative AI</strong>, <strong>Python Development</strong>, <strong>Web Development</strong>, and <strong>Android Development</strong>, where I worked on real-world projects, strengthened my problem-solving abilities, and gained practical software development experience.
+
+#### My technical expertise includes <strong>Python, C, C++, JavaScript, React, HTML, CSS, SQL, MongoDB, Git, GitHub</strong>, and modern AI frameworks. I enjoy designing scalable applications, developing AI-powered solutions, and continuously exploring emerging technologies to enhance my skills.
+
+#### I am actively seeking opportunities to collaborate on innovative projects, contribute to open-source communities, and apply my knowledge to create meaningful, impactful software.
+
 </p>
+
 
 
 <h3 align="center">A passionate frontend developer from India, "Coding my way through the tech universe."</h3>
