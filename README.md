@@ -1,15 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ronit%20Raj&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20in%20Progress&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Web+Developer+and+more" alt="Typing SVG" /></a>
-  <div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
-<img align="middle" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F7C300&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronit+Raj+%F0%9F%91%8B;Computer+Science+Student;Agentic+AI+%7C+Generative+AI+Developer;Full-Stack+Web+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Building+Intelligent+Software+Solutions" alt="Typing SVG" />
+  </a>
+
+  <div align="center">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="59" height="59"/>
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="59" height="59"/>
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="59" height="59"/>
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="59" height="59"/>
+  </div>
 </p>
 
 <p>
-
 #### Hi, I'm <strong>Ronit Raj</strong>, a <strong>third-year B.Tech Computer Science & Engineering student</strong> at <strong>Arya College of Engineering, Jaipur</strong>. I am passionate about building intelligent software solutions by combining <strong>Artificial Intelligence</strong>, <strong>Agentic AI</strong>, <strong>Generative AI</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Software Engineering</strong>.
 
 #### I have hands-on experience through internships in <strong>Agentic AI</strong>, <strong>Generative AI</strong>, <strong>Python Development</strong>, <strong>Web Development</strong>, and <strong>Android Development</strong>, where I worked on real-world projects, strengthened my problem-solving abilities, and gained practical software development experience.
