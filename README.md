@@ -110,11 +110,155 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronit049&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-## 🏅 HackerRank Badge
 
-<p align="center">
-  <img src="Hackerrank_Badge.png" alt="HackerRank Badge" width="200">
-</p>
+## 🚀 Professional Journey
+
+<table>
+<tr>
+<td width="120"><b>2026 – Present</b></td>
+<td>
+
+### 🤖 Agentic AI Intern @ Grras Solutions (P) Ltd.
+📍 Jaipur, Rajasthan, India • Remote
+
+Building intelligent AI applications and autonomous workflows while exploring the latest advancements in **Agentic AI**, **LLMs**, and **Generative AI**.
+
+**Highlights**
+- 🤖 Developing AI agents and multi-step workflows
+- 🧠 Working with Large Language Models (LLMs)
+- ⚡ Automating real-world tasks using AI
+- 🐍 Building AI applications with Python
+- 🚀 Learning modern AI frameworks and agent architectures
+
+**Tech:** `Python` `Agentic AI` `Generative AI` `LLMs` `Automation` `Git`
+</td>
+</tr>
+
+<tr>
+<td><b>2026</b></td>
+<td>
+
+### 🐍 Python Programming Intern @ HexSoftwares
+📍 Remote
+
+Worked on Python-based software development projects while improving programming, debugging, and collaborative development skills.
+
+**Highlights**
+- 💻 Built Python applications
+- 🔍 Improved debugging and problem-solving
+- 📂 Managed projects using Git & GitHub
+- 🤝 Collaborated on real-world development tasks
+
+**Tech:** `Python` `Git` `GitHub`
+</td>
+</tr>
+
+<tr>
+<td><b>2025</b></td>
+<td>
+
+### 🌐 Web Development & Designing Intern @ Oasis Infobyte
+📍 Remote
+
+Designed and developed responsive websites while improving UI/UX and frontend development skills.
+
+**Highlights**
+- 🎨 Designed responsive interfaces
+- 📱 Built mobile-friendly websites
+- ⚙️ Developed interactive web pages
+
+**Tech:** `HTML` `CSS` `JavaScript`
+</td>
+</tr>
+
+<tr>
+<td><b>2025</b></td>
+<td>
+
+### ⚛️ Frontend Development Intern @ CODEXINTERN
+📍 Remote
+
+Focused on building modern frontend projects and strengthening JavaScript fundamentals.
+
+**Highlights**
+- 💡 Developed responsive web applications
+- 🎯 Improved UI components
+- 📚 Worked on real-world frontend projects
+
+**Tech:** `HTML` `CSS` `JavaScript`
+</td>
+</tr>
+
+<tr>
+<td><b>2025</b></td>
+<td>
+
+### 📱 Android App Development Intern @ CodSoft
+📍 Remote
+
+Built Android applications while learning the complete mobile development workflow.
+
+**Highlights**
+- 📲 Developed Android apps using Java & XML
+- 🔥 Integrated Firebase services
+- 🎨 Followed Material Design guidelines
+
+**Tech:** `Java` `XML` `Firebase` `Android Studio`
+</td>
+</tr>
+
+<tr>
+<td><b>2025</b></td>
+<td>
+
+### 💻 Web Development Intern @ CodSoft
+📍 Remote
+
+Worked on responsive websites and practical web development projects.
+
+**Highlights**
+- 🌍 Built responsive websites
+- 🎨 Improved frontend development skills
+- 🚀 Created interactive web pages
+
+**Tech:** `HTML` `CSS` `JavaScript`
+</td>
+</tr>
+
+<tr>
+<td><b>2025</b></td>
+<td>
+
+### ✨ Generative AI Intern @ Prodigy InfoTech
+📍 Remote
+
+Explored cutting-edge AI technologies through hands-on projects focused on text and image generation.
+
+**Highlights**
+- 🤖 Worked with GPT-based models
+- 🖼️ Built Generative AI projects
+- ✍️ Practiced prompt engineering
+- 🧠 Explored transformer architectures
+
+**Tech:** `Python` `Generative AI` `GPT` `Machine Learning`
+</td>
+</tr>
+</table>
+
+## 🏆 Certifications
+
+| Certification | Issuer | Skills |
+|---------------|--------|--------|
+| 🍃 **MongoDB Basics for Students** *(Aug 2025)* | MongoDB | MongoDB, NoSQL Databases |
+| 🐍 **Python for Data Science** *(Jul 2025)* | IBM | Python, Pandas, NumPy, Matplotlib, Jupyter, Data Analysis, Data Visualization |
+| 📊 **Python 101 for Data Science** *(Jul 2025)* | IBM | Python, Data Science, NumPy, Pandas, Data Manipulation |
+| 📈 **Data Visualisation: Empowering Business with Effective Insights** *(Jun 2025)* | Tata Group | Data Visualization, Business Intelligence |
+| 📉 **Data Analytics Job Simulation** *(Jun 2025)* | Deloitte (Forage) | Data Analysis, Excel, Tableau, PowerPoint, Business Insights |
+| 🤖 **Introduction to Generative AI Studio** | Simplilearn | Generative AI, Prompt Engineering, Google AI Studio |
+| ✨ **Introduction to Google Gemini** | Simplilearn | Google Gemini, Multimodal AI, LLMs |
+| 💻 **C Programming – Spoken Tutorial Project** | IIT Bombay | C Programming, Problem Solving |
+
+
 ## 🔗 Connect with Me
 <p align="center"><a href="www.linkedin.com/in/ronit-raj7497" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/its_rsr04" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917368868707" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@its_rsr049" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ronitrajrsr0409@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://linktr.ee/ronit0491" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
