@@ -139,6 +139,36 @@
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge)
 
+## 🏆 Achievements
+
+### 💻 HackerRank Badges
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/ronitrajrsr0409" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-C%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/ronitrajrsr0409" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-C++%20⭐⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/ronitrajrsr0409" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/ronitrajrsr0409" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+### 🏅 CodeChef
+
+<a href="https://www.codechef.com/users/its_rsr04" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Python%20Skill%20Test-87%25-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<br><br>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Ronit049">
