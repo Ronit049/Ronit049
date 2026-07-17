@@ -360,6 +360,7 @@ Explored cutting-edge AI technologies through hands-on projects focused on text 
 | 📉 **Data Analytics Job Simulation** *(Jun 2025)* | Deloitte (Forage) | Data Analysis, Excel, Tableau, PowerPoint, Business Insights |
 | 🤖 **Introduction to Generative AI Studio** | Simplilearn | Generative AI, Prompt Engineering, Google AI Studio |
 | ✨ **Introduction to Google Gemini** | Simplilearn | Google Gemini, Multimodal AI, LLMs |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **AI Pair Programming with GitHub Copilot** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/a29c4c4a2e73d11ba06815ade2d1d101707a74a3aea9a371401d7b1bbf7e345c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOOPiqMQDRKS6N0GGyJvw1w%3D%3D) | LinkedIn | Artificial Intelligence (AI), GitHub Copilot |
 | 💻 **C Programming – Spoken Tutorial Project** | IIT Bombay | C Programming, Problem Solving |
 
 
