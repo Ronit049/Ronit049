@@ -70,111 +70,18 @@
   </a>
 </p>
 
+
 # 💻 Tech Stack
 
-### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Programming Languages:** Python, C, C++, Java, JavaScript
+- **Frontend Development:** HTML5, CSS3, React.js, Tailwind CSS
+- **Artificial Intelligence & Machine Learning:** Agentic AI, Generative AI, OpenAI API, Google Gemini, LangChain, LangGraph, Prompt Engineering, Retrieval-Augmented Generation (RAG)
+- **Data Science:** Pandas, NumPy, Matplotlib, Jupyter Notebook
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Linux, Postman
+- **Cloud & Deployment:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Vercel
+- **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS)
 
----
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🤖 AI • Machine Learning • Data Science
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6A5ACD?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4088?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
-
----
-
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 🧠 Core CS
-![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-0A66C2?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge)
-
-
-## 🏆 Coding Profiles & Achievements
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💚 HackerRank
-
-<a href="https://www.hackerrank.com/profile/ronitrajrsr0409">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-**Badges Earned**
-- 🟠 C ⭐
-- 🟠 C++ ⭐⭐
-- ⚪ Python
-- 🟠 SQL ⭐
-
-</td>
-
-<td align="center" width="50%">
-
-### 🍛 CodeChef
-
-<a href="https://www.codechef.com/users/its_rsr04">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-**Python Skill Test**
-- 🏅 **87%**
-
-</td>
-
-</tr>
-</table>
 
 <p align="center">
 <a href="https://www.hackerrank.com/profile/ronitrajrsr0409">
