@@ -259,7 +259,7 @@ Explored cutting-edge AI technologies through hands-on projects focused on text 
 ## 🏆 Certifications
 
 | Certification | Issuer | Skills |
-|---------------|--------|--------|
+|---|---|---|
 | 🍃 **MongoDB Basics for Students** *(Aug 2025)* | MongoDB | MongoDB, NoSQL Databases |
 | 🐍 **Python for Data Science** *(Jul 2025)* | IBM | Python, Pandas, NumPy, Matplotlib, Jupyter, Data Analysis, Data Visualization |
 | 📊 **Python 101 for Data Science** *(Jul 2025)* | IBM | Python, Data Science, NumPy, Pandas, Data Manipulation |
@@ -267,10 +267,11 @@ Explored cutting-edge AI technologies through hands-on projects focused on text 
 | 📉 **Data Analytics Job Simulation** *(Jun 2025)* | Deloitte (Forage) | Data Analysis, Excel, Tableau, PowerPoint, Business Insights |
 | 🤖 **Introduction to Generative AI Studio** | Simplilearn | Generative AI, Prompt Engineering, Google AI Studio |
 | ✨ **Introduction to Google Gemini** | Simplilearn | Google Gemini, Multimodal AI, LLMs |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **AI Pair Programming with GitHub Copilot** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/a29c4c4a2e73d11ba06815ade2d1d101707a74a3aea9a371401d7b1bbf7e345c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOOPiqMQDRKS6N0GGyJvw1w%3D%3D) | LinkedIn Learning | Artificial Intelligence (AI), GitHub Copilot |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **AI in the Flow of Data Engineering: 5 Days to Build Data Pipelines with Databricks Genie Code** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/9ae8ec50cbf8ef086d59ca2a476c9a632cf24b57c869c01f62fe53a97e2935d9?trk=share_certificate) | LinkedIn Learning | Data Engineering, Databricks, Databricks Genie Code, Generative AI, Artificial Intelligence (AI), ETL Pipelines, Data Pipelines |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **Authentic Connections: Cultivate Trust and Empathy at Work** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/0a9d07266a5f820ebe629ffca2fa6dcdc2a8abeb57578ad459753d34f8478fed?trk=share_certificate) | LinkedIn Learning | Workplace Relationships, Collaborative Leadership, Trust Building |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **[Course Name]** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/825fee85c5dfc275df821af572b482c0cb083e12ae7b981239b485ae1b85ae63?trk=share_certificate) | LinkedIn Learning | [Relevant Skills] |
+| 🤖 **AI Pair Programming with GitHub Copilot** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/a29c4c4a2e73d11ba06815ade2d1d101707a74a3aea9a371401d7b1bbf7e345c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOOPiqMQDRKS6N0GGyJvw1w%3D%3D) | LinkedIn Learning | Artificial Intelligence (AI), GitHub Copilot |
+| 📊 **AI in the Flow of Data Engineering: 5 Days to Build Data Pipelines with Databricks Genie Code** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/9ae8ec50cbf8ef086d59ca2a476c9a632cf24b57c869c01f62fe53a97e2935d9?trk=share_certificate) | LinkedIn Learning | Data Engineering, Databricks, Databricks Genie Code, Generative AI, Artificial Intelligence (AI), ETL Pipelines, Data Pipelines |
+| 🤝 **Authentic Connections: Cultivate Trust and Empathy at Work** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/0a9d07266a5f820ebe629ffca2fa6dcdc2a8abeb57578ad459753d34f8478fed?trk=share_certificate) | LinkedIn Learning | Workplace Relationships, Collaborative Leadership, Trust Building |
+| 📜 **[Course Name]** *(Jul 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/825fee85c5dfc275df821af572b482c0cb083e12ae7b981239b485ae1b85ae63?trk=share_certificate) | LinkedIn Learning | [Relevant Skills] |
+| 🐳 **DevOps Foundations: Containers** *(Aug 2026)*<br>[🔗 Show Credential](https://www.linkedin.com/learning/certificates/9c3740ed7cb91d45eba09a83001d6a665056f316f42b1f0738ff07c0e0a3891f/) | LinkedIn Learning | DevOps, Containerization, Docker, Containers |
 | 💻 **C Programming – Spoken Tutorial Project** | IIT Bombay | C Programming, Problem Solving |
 
 
