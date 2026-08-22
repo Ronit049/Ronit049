@@ -274,6 +274,7 @@ Explored cutting-edge AI technologies through hands-on projects focused on text 
 | 🧩 **Problem Solving (Intermediate)** *(Aug 2026)*<br>[🔗 Show Credential](https://www.hackerrank.com/certificates/iframe/e0c978f96964) | HackerRank | Problem Solving, Data Structures, Algorithms, Programming Logic |
 | 🗄️ **SQL (Basic)** *(Aug 2026)*<br>[🔗 Show Credential](https://www.hackerrank.com/certificates/iframe/8cb177d3009b) | HackerRank | SQL, MySQL, Database Concepts |
 | 🐍 **Python (Basic)** *(Aug 2026)*<br>[🔗 Show Credential](https://www.hackerrank.com/certificates/iframe/e8ff0736c673) | HackerRank | Python, Variables, Data Types, Operators, Conditional Statements, Loops, Functions, Lists, Strings |
+| ☕ **Java (Basic)** *(Aug 2026)*<br>[🔗 Show Credential](https://www.hackerrank.com/certificates/iframe/58dec07ef6ae) | HackerRank | Java, Variables, Data Types, Operators, Control Flow, Loops, Arrays, Object-Oriented Programming, Problem Solving |
 | 💻 **C Programming – Spoken Tutorial Project** | IIT Bombay | C Programming, Problem Solving |
 
 
