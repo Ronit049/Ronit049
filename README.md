@@ -315,4 +315,7 @@ Explored cutting-edge AI technologies through hands-on projects focused on text 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+## 📄 My Resume
 
+
+> 📑 **[View Resume](./Ronit_Raj_Resume.pdf)**
